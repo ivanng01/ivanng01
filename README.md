@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanng01
+- 💞️ I have a Bachelor's degree in Information Systems and currently work as a university professor in Programming.
 - 😀 I’m interested in programming
 - 🌱 I am currently learning full stack programming
-- 💞️ I currently work as a professor at a university
 - 📧 Contact information:
       ivann-gonzalez@hotmail.com & https://www.linkedin.com/in/ivandgonzalez/
 
