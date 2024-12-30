@@ -19,8 +19,7 @@ I hold a **Bachelor's degree in Information Systems** and am currently a **unive
 - **Languages**: PHP, JavaScript, Python, HTML/CSS
 - **Frameworks**: Laravel, React, Vue.js
 - **Tools & Platforms**: Git/GitHub, Docker, Visual Studio Code, MySQL
-- **Lenguage**: Spanish, native level
-                English, intermediate level 
+- **Lenguage**: Spanish, native level / English, intermediate level 
 - **Other**: REST APIs, OAuth, Agile methodologies
 
 
