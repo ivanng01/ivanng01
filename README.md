@@ -17,7 +17,7 @@ I hold a **Bachelor's degree in Information Systems** and am currently a **unive
 ### 💡 **Skills & Technologies**
 
 - **Languages**: PHP, JavaScript, Python, HTML/CSS
-- **Frameworks**: Laravel, Django, React, Vue.js
+- **Frameworks**: Laravel, Django, Vue.js
 - **Tools & Platforms**: Git/GitHub, Docker, Visual Studio Code, MySQL
 - **Lenguage**:
     - Spanish, native level
@@ -31,9 +31,11 @@ I hold a **Bachelor's degree in Information Systems** and am currently a **unive
 
 Here are some of the projects I've been working on:
 
-1. **[Innovabank](https://github.com/ivanng01/InnovaBank)** - A fintech application offering modern banking solutions (Laravel + React).
-2. **[IGSystem](https://github.com/ivanng01/igsystem)** - A tool to manage student attendance and observations with PDF export functionality.
-3. **[MercadoOrganico](https://github.com/No-Country-simulation/s18-13-n-php-react).** - Online platform to buy organic products.
+1. **[Sistema Escolar](https://github.com/ivanng01/sistema-escolar)** - Web application developed with Django for managing students, courses, attendance records, and academic observations.
+2. **[Innovabank](https://github.com/ivanng01/InnovaBank)** - A fintech application offering modern banking solutions (Laravel + React).
+3. **[IGSystem](https://github.com/ivanng01/igsystem)** - A tool to manage student attendance and observations with PDF export functionality.
+4. **[MercadoOrganico](https://github.com/No-Country-simulation/s18-13-n-php-react).** - Online platform to buy organic products.
+
 ---
 
 ### 🌱 **What I'm Learning**
